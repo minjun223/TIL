@@ -1,0 +1,5 @@
+{
+    "php.suggest.basic": true,
+    "php.validate.executablePath": "",
+    "liveServer.settings.CustomBrowser": "chrome"
+}
