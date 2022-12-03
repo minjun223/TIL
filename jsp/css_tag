@@ -16,3 +16,7 @@ style="display:flex; align-items: center; justify-content:center">
 			<input type="radio" name="check_vote" value="N">미확인
 		</td>
 </tr>
+
+디비 연결
+<%@ include file="db.jsp" %>
+<%@page import=""%>
