@@ -14,6 +14,7 @@ style="display:flex; align-items: center; justify-content:center">
 		<td>
 			<input type="radio" name="check_vote" value="Y">확인
 			<input type="radio" name="check_vote" value="N">미확인
+			<td><input type="number" name="midscore"></td>
 		</td>
 </tr>
 
